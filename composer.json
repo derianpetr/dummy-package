@@ -1,0 +1,8 @@
+{
+    "name": "derianpetr/dummy-package",
+    "description": "The Dummy package or The Empty Package",
+    "license": "0BSD",
+    "require": {
+        "php": ">=1"
+    }
+}
